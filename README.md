@@ -6,7 +6,6 @@ This project focuses on building an automated ETL pipeline for an e-commerce dat
 Cleans and transforms the data to handle missing values, inconsistencies, and unnecessary columns.
 Loads the processed data into a PostgreSQL database.
 Visualizes key insights using Power BI dashboards.
-
 Dataset
 The dataset used in this project is Pakistan's Largest E-Commerce Dataset. You can access the dataset from the following Google Drive link:
 📁 Download Dataset from Google Drive
