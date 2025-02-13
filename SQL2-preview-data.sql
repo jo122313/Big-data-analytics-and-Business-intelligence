@@ -1,0 +1,1 @@
+SELECT * FROM ecommerce_table LIMIT 10;
